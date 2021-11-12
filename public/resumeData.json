@@ -1,136 +1,147 @@
 {
-    "main": {
-        "name": "Aisha Adam",
-        "description": "A Graduate Information Technology Student at the Arab Open University. I have experience in web development and implementation of technical work,I like searching and learning new technologies such as applications of artificial intelligence and data science.  I aim to utilize my technical and managerial experiences to get a suitable job opportunity.  ",
-        "image": "charch.png",
-        "bio": "My name is Aisha, I'm a Junior Web Developer. I have web development skills specializing in front end development and use of various frameworks. Strong background in programming languages including Python, Java, PHP,C#, SQL.  ",
-        "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-        "email": "aishaadem8@gmail.com",
-        "phone": "+966 500396730",
-        "address": {
-            "city": "Riyadh",
-            "state": "SA"
+"main": {
+    "name": "Aisha Adam",
+    "description": "Front end Developer with +1 year experience in designing, testing and developing website and web App. Strong background in programming languages including Python, Java, PHP,C#, SQL." ,
+    "image": "charch.png",
+    "bio": "My name is Aisha, I'm a Junior Web Developer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "aisha.adem44@hotmail.com",
+    "phone": "+966 500396730",
+    "address": {
+        "city": "Riyadh",
+        "state": "SA"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1_mclfintkgK_lnXcspLJ1oVnjuG05bbI/view?usp=sharing",
+    "social": [{
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/aisha-adam/",
+            "className": "fa fa-linkedin"
         },
-        "resumedownload": "https://drive.google.com/file/d/1_mclfintkgK_lnXcspLJ1oVnjuG05bbI/view?usp=sharing",
-        "social": [{
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/aisha-adam/",
-                "className": "fa fa-linkedin"
-            },
 
-            {
-                "name": "github",
-                "url": "https://github.com/aisha33",
-                "className": "fa fa-github"
-            }
-        ]
-    },
-    "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-        "education": [{
-                "school": "University of Arab Open University",
-                "degree": "Bachelor of Information Technology and Computing ",
-                "graduated": "February 2019"
-            },
-            {
-                "school": " New Horizons Academy",
-                "degree": "Deploma of IT skills",
-                "graduated": "February 2015"
-            }
+        {
+            "name": "github",
+            "url": "https://github.com/aisha33",
+            "className": "fa fa-github"
+        }
+    ]
+},
+"resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [{
+            "school": "University of Arab Open University",
+            "degree": "Bachelor of Information Technology and programming ",
+            "graduated": "February 2019"
+        },
+        {
+            "school": " New Horizons Academy",
+            "degree": "Deploma of IT skills",
+            "graduated": "February 2015"
+        }
 
-        ],
-        "work": [{
-                "company": "Sawim E-commerce Company",
-                "title": "Marketing speticialist",
-                "years": "March 2019 - Oct 2019",
-                "description": "Working at Sawim Company as a marketing specialist with several tasks:  Customers accounts and website management. •  Social media management and data entry. •  Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences",
-                "list": "Develop, implement, monitor and supervise marketing programs.",
-                "list2": "Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.",
-                "list3": "Email Marketing"
-            },
-            {
-                "company": "National Tawthiq Training Center",
-                "title": "Information technology specialist and web developer",
-                "years": "Jun 2021 - Apr 2021",
-                "description": "Working at Sawim Company as a marketing specialist with several tasks:  ",
-                "list": "Designing, developing, installing and maintaining software solutions according to the requirements of the institution.",
-                "list2": "Following up on the website and e-mail, updating and programming pages.",
-                "list3": "Data Entry"
+    ],
+    "work": [
+        
+           {
+            "company": "National Tawthiq Training Center",
+            "title": "Information technology specialist and web developer",
+            "years": "Jan 2021 - Aug 2021",
+            "description": "Working at Sawim Company as a marketing specialist with several tasks:  ",
+            "list": "Designing, developing, installing and maintaining software solutions according to the requirements of the institution.",
+            "list2": "Following up on the website and e-mail, updating and programming pages.",
+            "list3": "Data Entry"
 
-            }
-        ],
-        "skills": [{
-                "name": "IT Skills ",
-                "image1": "https://j.top4top.io/p_1968bh6891.png"
-            },
-            {
-                "name": "ReactJs",
-                "image1": "https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png"
-            },
-            {
-                "name": "Javascript",
-                "image1": "https://g.top4top.io/p_1968eikl91.png"
-            },
-            {
-                "name": "CSS,Sass",
-                "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
-            },
-            {
-                "name": "Python",
-                "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"
-            },
-            {
-                "name": "HTML5",
-                "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"
-            },
+        },
+        {
+            "company": "Sawim E-commerce Company",
+            "title": "Marketing speticialist",
+            "years": "March 2019 - Oct 2019",
+            "description": "Working at Sawim Company as a marketing specialist with several tasks:  Customers accounts and website management. •  Social media management and data entry. •  Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences",
+            "list": "Develop, implement, monitor and supervise marketing programs.",
+            "list2": "Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.",
+            "list3": "Email Marketing"
+        }
+       
+    ],
+    "skills": [{
+            "name": "IT Skills ",
+            "image1": "https://j.top4top.io/p_1968bh6891.png"
+        },
+        {
+            "name": "ReactJs, React native",
+            "image1": "https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png"
+        },
+        {
+            "name": "Javascript",
+            "image1": "https://g.top4top.io/p_1968eikl91.png"
+        },
+        {
+            "name": "CSS,Sass,Style-component",
+            "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
+        },
+        {
+            "name": "Python",
+            "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"
+        },
+        {
+            "name": "HTML5",
+            "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"
+        },
 
-            {
-                "name": "Bootstrap",
-                "image1": "https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png"
-            },
+        {
+            "name": "Bootstrap",
+            "image1": "https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png"
+        },
 
-            {
-                "name": "Digital Marketing ",
-                "image1": "https://midnightmarketing.us/wp-content/uploads/2021/04/SEO-icon.png"
-            }
-        ]
-    },
-    "portfolio": {
-        "projects": [{
-                "title": "Amzon Clone",
-                "category": "Amazon Clone built with built with ReactJS",
-                "image": "AmazonApp.jpg",
-                "url": "https://amazonaaclone.netlify.app/"
-            },
-            {
-                "title": "The menu of restaurant",
-                "category": "Create Menu using html, css and javascript",
-                "image": "menu.jpg",
-                "url": "https://aisha33.github.io/Menu/"
-            },
-            {
-                "title": "National Tawthiq Training Center",
-                "category": "Create  Al Tawthiq website using wix.com ",
-                "image": "tawthiq1.png",
-                "url": "https://www.altawthiq.com/"
-            },
-            {
-                "title": "eat-zero ",
-                "category": "Create eat-zero website  using html, css, javascript, jquery",
-                "image": "eatzero.JPG",
-                "url": "http://eat-zero.online/"
-            }
-        ]
-    },
-    "testimonials": {
-        "testimonials": [{
-                "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-                "user": "Kareem Abdul Jabbar"
-            },
-            {
-                "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-                "user": "Steve Wozniak... impersonator"
-            }
-        ]
-    }
+        {
+            "name": "Digital Marketing ",
+            "image1": "https://midnightmarketing.us/wp-content/uploads/2021/04/SEO-icon.png"
+        }
+    ]
+},
+"portfolio": {
+    "projects": [{
+            "title": "The menu of restaurant",
+            "category": "Create Menu using html, css and javascript",
+            "image": "menu.jpg",
+            "url": "https://aisha33.github.io/Menu/"
+        },
+          {
+            "title": "eat-zero ",
+            "category": "Create eat-zero website  using html, css, javascript, jquery",
+            "image": "eatzero.JPG",
+            "url": "http://eat-zero.online/"
+        },
+           {
+            "title": "todo-list ",
+            "category": "Create to-do-list website using react js",
+            "image": "todlist.png",
+            "url": "https://todolist-cfd43.web.app/"
+        },
+        
+        
+        {
+            "title": "Amzon Clone",
+            "category": "Amazon Clone built with built with ReactJS",
+            "image": "AmazonApp.jpg",
+            "url": "https://amazonaaclone.netlify.app/"
+        },
+        {
+            "title": "National Tawthiq Training Center",
+            "category": "Create  Al Tawthiq website using wix.com ",
+            "image": "tawthiq1.png",
+            "url": "https://www.altawthiq.com/"
+        }
+    ]
+},
+"testimonials": {
+    "testimonials": [{
+            "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+            "user": "Kareem Abdul Jabbar"
+        },
+        {
+            "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+            "user": "Steve Wozniak... impersonator"
+        }
+    ]
+}
 }
