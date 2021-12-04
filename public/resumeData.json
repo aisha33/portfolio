@@ -1,7 +1,7 @@
 {
 "main": {
     "name": "Aisha Adam",
-    "description": "Front end Developer with +1 year experience in designing, testing and developing website and web App. Strong background in programming languages including Python, Java, PHP,C#, SQL." ,
+    "description": "Front end Developer with +1 year experience in designing, testing and developing website and web App. Strong background in programming languages including Python, Java, PHP,C#, SQL.Using Django and react.js frameworks" ,
     "image": "charch.png",
     "bio": "My name is Aisha, I'm a Junior Web Developer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -99,18 +99,27 @@
     ]
 },
 "portfolio": {
-    "projects": [{
-            "title": "The menu of restaurant",
-            "category": "Create Menu using html, css and javascript",
-            "image": "menu.jpg",
-            "url": "https://aisha33.github.io/Menu/"
-        },
-          {
+    "projects": [
+
+         {
             "title": "eat-zero ",
             "category": "Create eat-zero website  using html, css, javascript, jquery",
             "image": "eatzero.JPG",
             "url": "http://eat-zero.online/"
         },
+         {
+            "title": "flowers-store (Not completed)",
+            "category": "Create flowers-store website  using react.j , style-component ",
+            "image": "flowers.png",
+            "url": "https://4flowers-store.netlify.app/"
+        },
+        {
+            "title": "The menu of restaurant",
+            "category": "Create Menu using html, css and javascript",
+            "image": "menu.jpg",
+            "url": "https://aisha33.github.io/Menu/"
+        },
+         
            {
             "title": "todo-list ",
             "category": "Create to-do-list website using react js",
